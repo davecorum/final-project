@@ -71,3 +71,47 @@ nav ul li {
     position: relative;
     top: 46%;
 }
+
+.picture {
+    height: 300px;
+    width: 300px;
+    background-color: #000;
+    margin: 15px 15px;
+    float: left;
+    position: relative;
+    bottom: 40px;
+    box-shadow: 5px 5px 5px #373737;
+}
+
+.picture p {
+    color: #fff;
+}
+
+/*----Footer----*/
+
+footer {
+    background-color: #333;
+    clear: both;
+    padding: 24px 0px;
+}
+
+.fa {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.fa-youtube-play {
+    color: #b20000;
+}
+
+.fa-twitter {
+    color: #00c6ef;
+}
+
+.fa-instagram {
+    color: #6d7def;
+}
+
+#copyright {
+    color: #fff;
+}
