@@ -52,3 +52,22 @@ nav ul li {
     margin: 0px 17px;
     font-size: 20px;
 }
+
+/*--Hero--*/
+
+#hero {
+    height: 400px;
+    background-image: url("../img/hero.jpg");
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    bottom: 43px;
+}
+
+#hero h2 {
+    font-size: 52px;
+    color: #fff;
+    text-align: center;
+    position: relative;
+    top: 46%;
+}
