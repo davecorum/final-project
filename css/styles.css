@@ -1,0 +1,54 @@
+/*Fonts*/
+
+@import url('https://fonts.googleapis.com/css?family=Lato:400,900|Roboto');
+
+/*--UNIVERSALS--*/
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+ul {
+    list-style-type: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Lato", sans-serif;
+}
+
+p, a {
+    font-family: "Roboto", sans-serif;
+}
+
+.text-center {
+    text-align: center;
+}
+
+/*--Header--*/
+
+header {
+    background-color: #000029;
+}
+
+nav ul li, h3 {
+    display: inline-block;
+    color: #fff;
+}
+
+h3 {
+    position: relative;
+    left: 15px;
+}
+
+nav {
+    float: right;
+    position: relative;
+    right: 15px;
+    top: 3px;
+}
+
+nav ul li {
+    margin: 0px 17px;
+    font-size: 20px;
+}
