@@ -1,3 +1,9 @@
 .picture {
     bottom: 0;
 }
+
+#pic-1 {
+    height: 300px;
+    width: 300px;
+    background-image: url("../img/sparky-square.png");
+}

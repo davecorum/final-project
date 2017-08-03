@@ -1,0 +1,7 @@
+#sparky {
+    height: 450px;
+    width: 800px;
+    background-image: url(../img/sparky.jpg);
+    background-position: center;
+    margin-bottom: 15px;
+}

@@ -91,6 +91,12 @@ nav ul li {
     font-size: 20px;
 }
 
+#pic-1 {
+    height: 300px;
+    width: 300px;
+    background-image: url("../img/sparky-square.png");
+}
+
 /*----Footer----*/
 
 footer {
